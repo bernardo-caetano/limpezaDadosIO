@@ -1,0 +1,3 @@
+Um dos trabalhos do estágio no Laboratório de Controle a Automação - UFRJ era a aquisição de dados dos sensores de uma planta, ou seja, uma planilha que registra ao longo de um período todas as subidas e descidas dos sensores e atuadores da planta.
+
+O objetivo deste código é varrer toda a planilha e remover todas as linhas repetidas, ou seja, retornar uma lista real da evolução do sistema baseada nas leituras dos sensores e atuadores.
